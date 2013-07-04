@@ -24,8 +24,8 @@ Javascript/JQuery - Multiple Image Loader - It is a pluggin which has a callback
 /////////////////////////////////////////////////////////////
 
 Tutorial and Demo
-
 http://thetutorialhub.com/main/plugin-load-multiple-images/
+
 
 
 
