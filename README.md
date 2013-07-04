@@ -5,7 +5,7 @@ Javascript/JQuery - Multiple Image Loader - It is a pluggin which has a callback
 
 * JavaScript Document
 * Bomb Lori - Image Loader Pluggin
-* Created by : Â© Sunil Syal
+* Developed by : Sunil Syal
 * http://thetutorialhub.com/main/plugin-load-multiple-images/
 * Date : Feb 03, 2013
 * License : You can use it for commercial purpose only if keep the description intact.
