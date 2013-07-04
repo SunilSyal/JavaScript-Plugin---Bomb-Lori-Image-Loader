@@ -9,7 +9,7 @@ Javascript/JQuery - Multiple Image Loader - It is a pluggin which has a callback
 * http://thetutorialhub.com/main/plugin-load-multiple-images/
 * Date : Feb 03, 2013
 * License : You can use it for commercial purpose only if keep the description intact.
-* Anyone can contribute and can add his/her name in the description field with date
+* Anyone can contribute and can add his/her name in the description field with modification date and proper comments
 * When edited by someone, inform me about it so that I can update the demo
 
 ## Tutorial and Demo
