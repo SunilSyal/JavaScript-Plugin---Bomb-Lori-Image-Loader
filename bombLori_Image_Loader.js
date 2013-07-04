@@ -5,7 +5,7 @@
 // http://thetutorialhub.com/main/plugin-load-multiple-images/
 // Date : Feb 03, 2013
 // License : You can use it for commercial purpose only if you 
-// give credit to me. Simply keep the description intact.
+// keep the description intact.
 /////////////////////////////////////////////////////////////
 /////////////////////////////////////////////////////////////
 // How to use it
